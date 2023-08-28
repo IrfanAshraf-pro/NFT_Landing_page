@@ -1,0 +1,7 @@
+export {default as NavbarCustom} from './Navbar'
+export {default as Hero} from './Hero'
+export {default as Companies} from './Companies'
+export {default as MarketPlace} from './Marketplace'
+export {default as TopCreators} from './TopCreators'
+export {default as Subscribe} from './Subscribe'
+export {default as Footer } from './Footer'
